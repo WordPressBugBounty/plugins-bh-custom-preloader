@@ -3,8 +3,9 @@ Contributors: masumbd
 Donate link: 
 Tags: custom preloader, nice preloader, preloader, preloader plugin, CSS3 preloader
 Requires at least: 5.0
-Tested up to: 6.7
-Stable tag: 2.2
+Tested up to: 6.8
+Stable tag: 2.3
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -84,6 +85,7 @@ After install, the plugin will add a menu under Settings called "BH Custom Prelo
 4. screenshot-4.png
 
 == Changelog ==
+* 2.3 - Added 8 CSS3 Preloader and Fixed Minor Issues
 * 2.2 - Compatible with WordPress 6.7 and Fixed Some Bugs
 * 2.1 - 12 New Preloader Image Added
 * 2.0 - Added Setting Link and Fixed Issues

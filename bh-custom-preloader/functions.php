@@ -83,18 +83,6 @@ if( class_exists( 'CSF' ) ) {
 			'preloader26' => BHPREDIRURI . 'img/preview/26.png',
 			'preloader27' => BHPREDIRURI . 'img/preview/27.png',
 			'preloader28' => BHPREDIRURI . 'img/preview/28.png',
-			'preloader29' => BHPREDIRURI . 'img/preview/29.gif',
-			'preloader30' => BHPREDIRURI . 'img/preview/30.gif',
-			'preloader31' => BHPREDIRURI . 'img/preview/31.gif',
-			'preloader32' => BHPREDIRURI . 'img/preview/32.gif',
-			'preloader33' => BHPREDIRURI . 'img/preview/33.gif',
-			'preloader34' => BHPREDIRURI . 'img/preview/34.gif',
-			'preloader35' => BHPREDIRURI . 'img/preview/35.gif',
-			'preloader36' => BHPREDIRURI . 'img/preview/36.gif',
-			'preloader37' => BHPREDIRURI . 'img/preview/37.gif',
-			'preloader38' => BHPREDIRURI . 'img/preview/38.gif',
-			'preloader39' => BHPREDIRURI . 'img/preview/39.gif',
-			'preloader40' => BHPREDIRURI . 'img/preview/40.gif',
 		  ),
 		  'default'   => 'preloader1'
 		),
@@ -142,13 +130,10 @@ if( class_exists( 'CSF' ) ) {
 
       // A text field
       array(
-        'id'    => 'img-option',
+        'id'    => 'css-option',
         'type'       => 'heading',
-        'content' => '<img src="'.BHPREDIRURI.'img/preview/bh_img.jpg'.'" > <br><br>
-		
-			Please Upgrade To Pro Version For These Options <a href="https://themesvila.com/item/bh-custom-preloader-pro/ " target="_blank">Click Here</a>
-		' 
-	  ),
+        'content' => 'Please Upgrade to Pro Version for this options <a href="https://www.codegrape.com/item/bh-custom-preloader/9097 ">Click Here</a>',
+      ),
 
     )
   ) );  
@@ -160,13 +145,10 @@ if( class_exists( 'CSF' ) ) {
 
        // A text field
       array(
-        'id'    => 'css-option',
+        'id'    => 'img-option',
         'type'  => 'heading',
-         'content' => '<img src="'.BHPREDIRURI.'img/preview/bh_img2.jpg'.'" > <br><br>
-		
-			Please Upgrade To Pro Version For These Options <a href="https://themesvila.com/item/bh-custom-preloader-pro/ " target="_blank">Click Here</a>
-		'
-	  ),
+        'content' => 'Please Upgrade to Pro Version for this options <a href="https://www.codegrape.com/item/bh-custom-preloader/9097 ">Click Here</a>',
+      ),
 
 
     )

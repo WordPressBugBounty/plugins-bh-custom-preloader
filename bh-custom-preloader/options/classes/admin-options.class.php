@@ -23,7 +23,7 @@ if ( ! class_exists( 'CSF_Options' ) ) {
     public $args         = array(
 
       // framework title
-      'framework_title'         => 'Codestar Framework <small>by Codestar</small>',
+      'framework_title'         => 'BH Preloader Option',
       'framework_class'         => '',
 
       // menu settings
@@ -59,7 +59,7 @@ if ( ! class_exists( 'CSF_Options' ) ) {
       'admin_bar_menu_priority' => 50,
 
       // footer
-      'footer_text'             => 'Thank you for creating with Codestar Framework',
+      'footer_text'             => 'Thank you for using BH Custom Preloader',
       'footer_after'            => '',
       'footer_credit'           => '',
 
@@ -496,7 +496,7 @@ if ( ! class_exists( 'CSF_Options' ) ) {
         echo '<div class="csf-header-inner">';
 
           echo '<div class="csf-header-left">';
-          echo '<h1>'. __('BH Custom Preloader' , 'csf') .'</h1>';
+          echo '<h1>'. $this->args['framework_title'] .'</h1>';
           echo '</div>';
 
           echo '<div class="csf-header-right">';
