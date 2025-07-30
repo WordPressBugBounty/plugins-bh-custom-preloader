@@ -1,5 +1,7 @@
 <?php 
-
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly.
+}
 // A Custom function for get an option
 if ( ! function_exists( 'bh_get_option' ) ) {
   function bh_get_option( $option = '', $default = null ) {

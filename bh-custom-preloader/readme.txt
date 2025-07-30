@@ -4,7 +4,7 @@ Donate link:
 Tags: custom preloader, nice preloader, preloader, preloader plugin, CSS3 preloader
 Requires at least: 5.0
 Tested up to: 6.8
-Stable tag: 2.4
+Stable tag: 2.5
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,7 @@ Color customization options are available for all preloader types, allowing you 
 &#9989; Unlimited Color Options
 &#9989; And Much More options ……
 
+[youtube https://www.youtube.com/watch?v=ReH0U1gX-to]
 
 <h4>Try the PRO version</h4>
 
@@ -42,7 +43,7 @@ Color customization options are available for all preloader types, allowing you 
 &#9989; 35 CSS3 Preloader Style	
 &#9989; Attactive Preloader Images	
 &#9989; Logo with CSS3 Preloader Style Option - Newly Added
-&#9989; Custom Logo/Image Option
+&#9989; Custom Logo/Image Upload Option
 &#9989; Advanced Plugin Option	
 &#9989; Unlimited Color Option	
 &#9989; Preloader Size Option	
@@ -50,6 +51,7 @@ Color customization options are available for all preloader types, allowing you 
 &#9989; Free Update For lifetime	
 &#9989; And Many More Options..	
 
+[youtube https://www.youtube.com/watch?v=te05Welwov8]
 
 == Installation ==
 
@@ -76,9 +78,10 @@ After install, the plugin will add a menu under Settings called "BH Custom Prelo
 
 == Changelog ==
 
+* 2.5 – Fixed Minor security Issues
 * 2.4 – Fixed Minor Issues
 * 2.3 – Added 8 CSS3 Preloader and Fixed Minor Issues
-* 2.2 – Compatible with WordPress 6.7 and Fixed Some Bugs
+* 2.2 – Compatible with WordPress 6.8 and Fixed Some Bugs
 * 2.1 – 12 New Preloader Image Added
 * 2.0 – Added Setting Link and Fixed Issues
 * 1.9 – Updated Plugin Files

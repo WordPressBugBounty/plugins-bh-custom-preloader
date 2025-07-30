@@ -10,7 +10,7 @@ Plugin URI: https://wordpress.org/plugins/bh-custom-preloader/
 Description: This is BH Custom Preloader WordPress plugin.It will be enable Preloader on your web site. You can change Every things from settings
 Author: Masum Billah
 Author URI: https://themesvila.com/
-Version: 2.4
+Version: 2.5
 */
 
 

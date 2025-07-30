@@ -1,4 +1,7 @@
 <?php 
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly.
+}
 define('BHPREDIRURI' , WP_PLUGIN_URL .'/' . plugin_basename(dirname(__FILE__)) . '/');
 
 // Control core classes for avoid errors
