@@ -1,10 +1,10 @@
-﻿=== BH Custom CSS3 Preloader – Just Plug and play ===
+﻿=== BH Custom CSS3 Preloader – Just play and play ===
 Contributors: masumbd
 Donate link: 
 Tags: custom preloader, nice preloader, preloader, preloader plugin, CSS3 preloader
 Requires at least: 5.0
-Tested up to: 6.8
-Stable tag: 2.5
+Tested up to: 6.9
+Stable tag: 2.6
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -17,20 +17,20 @@ The BH Custom Preloader Plugin is a powerful and user-friendly tool designed to 
 
 Color customization options are available for all preloader types, allowing you to match the animation to your site's color scheme effortlessly. The plugin also includes an intuitive settings panel called Advanced Preloader Settings, where you can configure every aspect of the preloader behavior — including animation type, duration, background color, and loading icons — without touching any code. Whether you're a beginner looking for easy setup or a developer wanting more control, the BH Custom Preloader Plugin provides a robust and flexible solution to make your website look polished and professional from the very first second.
 
-[View Demo](https://getmasum.com/themes-wp/allplugins/bh-custom-preloader-pro/) | [Upgrade to Pro Version](https://themesvila.com/item/bh-custom-preloader-pro/)
+[View Demo](https://wpdemothemes.com/allplugins/bh-custom-preloader-pro/) | [Upgrade to Pro Version](https://themesvila.com/item/bh-custom-preloader-pro/)
 
 ### Features
 
-&#9989; Easy Installation
-&#9989; Plug and Play
-&#9989; Image / Logo Preloader
-&#9989; 8 Css3 Preloader
-&#9989; 40 Preloader Images Included
-&#9989; Advanced Plugin Option
-&#9989; Unlimited Color Options
-&#9989; And Much More options ……
-
-[youtube https://www.youtube.com/watch?v=ReH0U1gX-to]
+<ul>
+	<li>&#9989; Easy Installation</li>
+	<li>&#9989; Plug and Play</li>
+	<li>&#9989; Image / Logo Preloader</li>
+	<li>&#9989; 8 Css3 Preloader</li>
+	<li>&#9989; 40 Preloader Images Included</li>
+	<li>&#9989; Advanced Plugin Option</li>
+	<li>&#9989; Unlimited Color Options</li>
+	<li>&#9989; And Much More options ………</li>
+</ul>
 
 <h4>Try the PRO version</h4>
 
@@ -38,20 +38,18 @@ Color customization options are available for all preloader types, allowing you 
 
 ### PRO features 
 
-&#9989; Easy Installation
-&#9989; Plug and Play
-&#9989; 35 CSS3 Preloader Style	
-&#9989; Attactive Preloader Images	
-&#9989; Logo with CSS3 Preloader Style Option - Newly Added
-&#9989; Custom Logo/Image Upload Option
-&#9989; Advanced Plugin Option	
-&#9989; Unlimited Color Option	
-&#9989; Preloader Size Option	
-&#9989; Free Support For lifetime
-&#9989; Free Update For lifetime	
-&#9989; And Many More Options..	
-
-[youtube https://www.youtube.com/watch?v=te05Welwov8]
+<ul>
+	<li>&#9989; Easy Installation</li>	
+	<li>&#9989; 35 CSS3 Preloader Style</li>	
+	<li>&#9989; Attactive Preloader Images</li>	
+	<li>&#9989; Image with CSS3 Preloader Option</li>	
+	<li>&#9989; Advanced Plugin Option</li>	
+	<li>&#9989; Unlimited Color Option</li>	
+	<li>&#9989; Preloader Size Option</li>	
+	<li>&#9989; Free Support For lifetime</li>	
+	<li>&#9989; Free Update For lifetime</li>	
+	<li>&#9989; And Many More Options..</li>	
+</ul>
 
 == Installation ==
 
@@ -78,10 +76,9 @@ After install, the plugin will add a menu under Settings called "BH Custom Prelo
 
 == Changelog ==
 
-* 2.5 – Fixed Minor security Issues
-* 2.4 – Fixed Minor Issues
+* 2.6 – Compatible with WordPress 6.9
 * 2.3 – Added 8 CSS3 Preloader and Fixed Minor Issues
-* 2.2 – Compatible with WordPress 6.8 and Fixed Some Bugs
+* 2.2 – Compatible with WordPress 6.7 and Fixed Some Bugs
 * 2.1 – 12 New Preloader Image Added
 * 2.0 – Added Setting Link and Fixed Issues
 * 1.9 – Updated Plugin Files
